@@ -19,5 +19,5 @@ By running client this screen should appear. Enter IP address and other configs.
 ![Login](https://github.com/pouyan9675/Multiplayer-Memory-Game/blob/master/Screenshots/01.jpg)
 
 ### 3.Play!
-If client connect the server successfully the game screen will be shown. Now you can play!
+If client connect to server successfully the game screen will be shown. Now you can play!
 ![Gameplay](https://github.com/pouyan9675/Multiplayer-Memory-Game/blob/master/Screenshots/03.png)
